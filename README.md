@@ -39,6 +39,7 @@ else:
 ### Transition formula
 solve(i): minimum steps to get to i
 - To get to i, you must pass thru one of the sqaures from i-K to i-1
+
 solve(i) = min( solve(j)+1, for all j from i-K to i-1 )
 ```
 def solve(i):
