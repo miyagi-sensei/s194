@@ -1,7 +1,9 @@
 # S194 - Snakes and Snakes (https://judge.hkoi.org/task/S194)
 Roadmap:
 - Subtask 1 & 2 is trivial
-- Subtask 4 is the stepping stone to full solution. Try solving for K=2 and you'll get important insight for a more general solution.
+    - Subtask 1: `(N-1) / K + 1`
+    - Subtask 2: `N` or `Lonely Christmas` (if there is any snake at all)
+- Subtask 4 is the stepping stone to full solution. Try solving for K=2 and you'll get important insights for a more general solution.
 
 ## K = 2
 - Imagine if all "entry square" of snakes are on odd squares. What is the answer?
