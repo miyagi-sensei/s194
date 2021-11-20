@@ -1,4 +1,4 @@
-# S194 - Snakes and Snakes (https://judge.hkoi.org/task/S194)
+# [S194 - Snakes and Snakes](https://judge.hkoi.org/task/S194)
 Roadmap:
 - Subtask 1 & 2 is trivial
     - Subtask 1: `(N-1) / K + 1`
